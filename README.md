@@ -34,6 +34,10 @@ flutter_launcher_icons: ^0.14.3
    flutter run
    ```
 
+### Download APK
+[Download Xylophone App](https://github.com/Sujoy-Maity-Coding/xylophone/releases/latest)
+
+
 ## Contributing
 Contributions are welcome! Feel free to fork the repository and submit a pull request.
 
