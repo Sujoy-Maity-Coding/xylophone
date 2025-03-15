@@ -34,13 +34,15 @@ flutter_launcher_icons: ^0.14.3
    flutter run
    ```
 
-### Download APK
-[Download Xylophone App](https://github.com/Sujoy-Maity-Coding/xylophone/releases/latest)
-
+## Download APK
+The APK is available for download. Please follow these steps to use it:
+1. Download the APK zip file from the link below:
+   [Download Xylophone App](https://github.com/Sujoy-Maity-Coding/xylophone/releases/latest)
+2. Extract the zip file.
+3. Locate `app-release.apk` and install it on your device.
 
 ## Contributing
 Contributions are welcome! Feel free to fork the repository and submit a pull request.
 
 ## License
 This project is licensed under the MIT License.
-
