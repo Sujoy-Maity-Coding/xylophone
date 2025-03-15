@@ -1,6 +1,7 @@
 # Xylophone App
 
 Xylophone is a Flutter-based musical application that allows users to play different xylophone notes. The app features an interactive UI with audio functionality.
+![xylophone image](https://github.com/Sujoy-Maity-Coding/xylophone/blob/main/img.jpg)
 
 ## Features
 - Play different xylophone notes
